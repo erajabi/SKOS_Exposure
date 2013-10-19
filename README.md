@@ -1,6 +1,9 @@
 SKOS_Exposure
 =============
 
-This program expose an EXCEL/OWL file as SKOS.
+This program exposes an EXCEL/OWL file as SKOS.
 
-EXCEL file is prepared in three columns and the program will expose it as SKSO, by converting it to a relational DB.
+Steps for mapping terminologies as SKOS are as follows:
+ - Converting EXCEL file or OWL file into a relational database
+ - Mapping the database as RDF using D2RQ mapping service
+ - Exploring the SKOS relationship using Radial Browser
