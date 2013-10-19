@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ontologyConfiguration>
+<database>
+
+    <connectionString>  jdbc:mysql://localhost:3306/  </connectionString>
+    <databaseName>  sampleskos  </databaseName>
+    <username>  root  </username>
+    <password>  123  </password>
+
+</database>
+<excel>
+    <inputExcelFilePath>  src\ODS_Taxonomy.xls  </inputExcelFilePath>
+    <firstSheet>  1  </firstSheet>
+    <lastSheet>  7  </lastSheet>
+
+    <OWLPrefix>  http://www.opendiscoveryspace.eu#  </OWLPrefix>
+    <interfacePath>  src\Interface\relationBrowser.xml  </interfacePath>
+
+</excel>
+<owl>
+    <owlFilepath>  src\OE.owl </owlFilepath>
+    <interfacePath>  src\Interface\relationBrowser.xml  </interfacePath>
+</owl>
+
+ </ontologyConfiguration>

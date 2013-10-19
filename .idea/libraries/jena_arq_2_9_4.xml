@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="jena-arq-2.9.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/httpclient-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/httpcore-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/jcl-over-slf4j-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/jena-arq-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/jena-core-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/jena-iri-0.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/jena-tdb-0.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/slf4j-log4j12-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/xercesImpl-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lom2rdb201303/mysql-connector-java-5.1.10-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/poi-3.9-20121203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/poi-examples-3.9-20121203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/poi-excelant-3.9-20121203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/poi-ooxml-3.9-20121203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/poi-ooxml-schemas-3.9-20121203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImportantJarFile/lib/poi-scratchpad-3.9-20121203.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
